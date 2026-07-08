@@ -26,11 +26,11 @@ sudo dnf install playerctl
 Also install PyQt6
 
 ```bash
-# pip install PyQt6
+pip install PyQt6
 ```
 
 ### 3. Run!
-Now, run teh command
+Now, run the command
 ```bash
-# python miniplayer.py
+python miniplayer.py
 ```
