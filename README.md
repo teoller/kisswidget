@@ -1,0 +1,23 @@
+# kisswidget - ASCII Miniplayer ♫
+
+A transparent, lightweight, and borderless ASCII audio miniplayer for Linux.
+
+⚠️ **Compatibility Note:** This widget works **ONLY on Linux** (both X11 and Wayland). It will **not** work on Windows.
+
+## Prerequisites & Setup
+
+Before running the player, you need to install `playerctl` and `PyQt6`.
+
+### 1. System Dependencies
+Install `playerctl` using your distribution's package manager:
+
+```bash
+# Ubuntu / Debian / Pop!_OS
+sudo apt install playerctl
+
+# Arch Linux / Manjaro
+sudo pacman -S playerctl
+
+# Fedora
+sudo dnf install playerctl
+
