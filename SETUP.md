@@ -3,6 +3,7 @@
 A transparent, lightweight, and borderless ASCII audio miniplayer for Linux.
 
 **Note:** This widget works **ONLY on Linux** (both X11 and Wayland). It will **not** work on Windows.
+
 **Note2:** The "forwards"and "backwards" buttons dont work properly on youtube, but Spotify works perfectly, i will try to fix this later!
 
 ## Prerequisites & Setup
